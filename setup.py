@@ -17,7 +17,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'caldav-check-rountrip = ws.caldavcheck.main:main',
+            'caldav-check-roundtrip = ws.caldavcheck.main:main',
         ],
     },
 

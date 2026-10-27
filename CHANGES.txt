@@ -3,6 +3,15 @@ CHANGES
 
 .. towncrier release notes start
 
+ws.caldavcheck 1.0.3 (2026-10-27)
+---------------------------------
+
+Changes
++++++++
+
+- Declare dependency on requests (deps)
+
+
 1.0.2 (2023-04-04)
 ------------------
 

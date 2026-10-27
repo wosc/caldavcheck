@@ -4,6 +4,7 @@ description = "Creates an event in a CalDAV calendar, and checks that it can be 
 
 dependencies = [
   "caldav",
+  "requests",
   "vobject",
 ]
 optional-dependencies = {test=[
